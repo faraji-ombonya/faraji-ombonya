@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji&show_icons=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faraji-fuji&repo=learning-vue)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faraji-fuji)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faraji-fuji)](https://github.com/anuraghazra/github-readme-stats)
