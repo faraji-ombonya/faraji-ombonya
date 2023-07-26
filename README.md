@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji)](https://github.com/anuraghazra/github-readme-stats)
