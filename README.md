@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faraji-fuji&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faraji-fuji&layout=compact&langs_count=10)
 
