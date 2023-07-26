@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji&show_icons=true&show_icons=true&theme=transparent)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=10)
