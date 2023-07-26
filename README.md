@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji&show_icons=true)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faraji-fuji&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faraji-fuji&repo=learning-vue)](https://github.com/anuraghazra/github-readme-stats)
