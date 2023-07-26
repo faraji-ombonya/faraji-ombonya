@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=400 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api?username=faraji-fuji&show_icons=true&show_icons=true&theme=transparent" />
+  <img height=300 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api?username=faraji-fuji&show_icons=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=8&show_icons=true&theme=transparent" />
+  <img height=300 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=8&show_icons=true&theme=transparent" />
 </a>
