@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api?username=faraji-fuji&show_icons=true&show_icons=true&theme=transparent" />
+  <img height=220 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api?username=faraji-fuji&show_icons=true&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=500 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=8&show_icons=true&theme=transparent&layout=compact" />
+  <img height=220 width=500 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=8&show_icons=true&theme=transparent&layout=compact" />
 </a>
