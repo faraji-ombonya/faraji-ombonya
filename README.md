@@ -1,4 +1,24 @@
-### Hi there 👋
+# Software Engineer
+
+## Core Technologies
+
+- **Python:** Django, Django Rest, Flask, Celery
+- **JavaScript:** Vue, jQuery
+- **HTML5** 
+- **CSS3:** Bootstrap, Tailwind CSS
+- **PHP:** Laravel
+- **SQL:** MySQL, Postgresql
+- **NoSQL:** DynamoDB, Redis
+
+## Developer Tools
+
+- Source Code Control and Versioning with **Git** and **GitHub**
+- Project Management with **Jira**
+- API Testing with **Postman**
+- Containerization with **Docker**
+- Load Testing with **Locust**
+- Message and Task Queues with **Redis**, **RabbitMQ**
+
 
 <!--
 **faraji-fuji/faraji-fuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
