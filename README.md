@@ -13,7 +13,7 @@
 ## Developer Tools
 
 - Source Code Control and Versioning with **Git** and **GitHub**
-- Project Management with **Jira**
+- Project Management with **Jira** and **GitHub**
 - API Testing with **Postman**
 - Containerization with **Docker**
 - Load Testing with **Locust**
