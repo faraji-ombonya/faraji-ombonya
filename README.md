@@ -7,7 +7,7 @@
 - **HTML5** 
 - **CSS3:** Bootstrap, Tailwind CSS
 - **PHP:** Laravel
-- **SQL:** MySQL, Postgresql
+- **SQL:** MySQL, PostgreSQL
 - **NoSQL:** DynamoDB, Redis
 
 ## Developer Tools
