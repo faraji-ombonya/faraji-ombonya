@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 </a>
 
 ## Contact
-- [LinkedIn](www.linkedin.com/in/faraji-ombonya-82a918172)
-- Email: farajiombonya@gmai.com
+- **LinkedIn:** www.linkedin.com/in/faraji-ombonya-82a918172
+- **Email:** farajiombonya@gmai.com
