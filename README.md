@@ -48,3 +48,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=220 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=10&show_icons=true&theme=transparent&layout=compact" />
 </a>
+
+[LinkedIn](www.linkedin.com/in/faraji-ombonya-82a918172)
