@@ -2,6 +2,7 @@
 
 ## Core Technologies
 
+- **Golang**
 - **Python:** Django, Django Rest, Flask, Celery
 - **JavaScript:** Vue, jQuery
 - **HTML5** 
