@@ -5,9 +5,9 @@
 - **Golang:** GORM, Gin
 - **Python:** Django, Django Rest, Flask, Celery
 - **JavaScript:** Vue, jQuery
+- **PHP:** Laravel
 - **HTML5** 
 - **CSS3:** Bootstrap, Tailwind CSS
-- **PHP:** Laravel
 - **SQL:** MySQL, PostgreSQL
 - **NoSQL:** DynamoDB, Redis
 
