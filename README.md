@@ -2,7 +2,7 @@
 
 ## Core Technologies
 
-- **Golang** GORM, Gin
+- **Golang:** GORM, Gin
 - **Python:** Django, Django Rest, Flask, Celery
 - **JavaScript:** Vue, jQuery
 - **HTML5** 
