@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/faraji-ombonya-82a918172
-- **Email:** farajiombonya@gmai.com
+- **Email:** farajiombonya@gmail.com
