@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 ## Links
 - **HackerRank:** https://www.hackerrank.com/farajiombonya
 - **LinkedIn:** www.linkedin.com/in/faraji-ombonya-82a918172
+- **X:** https://twitter.com/FarajiOmbonya
 
 ## Contact
 - **Email:** farajiombonya@gmail.com
