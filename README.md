@@ -13,12 +13,12 @@
 
 ## Developer Tools
 
-- Source Code Control and Versioning with **Git** and **GitHub**
-- Project Management with **Jira** and **GitHub**
+- Source Code Control and Versioning with **Git** & **GitHub**
+- Project Management with **Jira** & **GitHub**
 - API Testing with **Postman**
 - Containerization with **Docker**
 - Load Testing with **Locust**
-- Message and Task Queues with **Redis**, **RabbitMQ**
+- Message and Task Queues with **Redis** & **RabbitMQ**
 - Object Storage with **Amazon S3** & **Azure Blob Storage**
 
 
