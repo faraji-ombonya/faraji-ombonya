@@ -50,10 +50,5 @@ Here are some ideas to get you started:
   <img height=220 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=10&show_icons=true&theme=transparent&layout=compact" />
 </a>
 
-## Links
-- **HackerRank:** https://www.hackerrank.com/farajiombonya
-- **LinkedIn:** www.linkedin.com/in/faraji-ombonya-82a918172
-- **X:** https://twitter.com/FarajiOmbonya
-
 ## Contact
 - **Email:** farajiombonya@gmail.com
