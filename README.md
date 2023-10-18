@@ -19,6 +19,7 @@
 - Containerization with **Docker**
 - Load Testing with **Locust**
 - Message and Task Queues with **Redis**, **RabbitMQ**
+- Object Storage with **Amazon S3** & **Azure Blob Storage**
 
 
 <!--
