@@ -52,10 +52,9 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=220 align="center" src="https://git-stats-vercel-1ary1fg0q-faraji-fuji.vercel.app/api/top-langs/?username=faraji-fuji&langs_count=10&show_icons=true&theme=transparent&layout=compact" />
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=faraji-fuji&langs_count=10&show_icons=true&theme=transparent&layout=compact" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faraji-fuji&show_icons=true&theme=radical)
-
 ## Contact
 - **Email:** farajiombonya@gmail.com
