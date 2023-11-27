@@ -20,6 +20,8 @@
 - Load Testing with **Locust**
 - Message and Task Queues with **Redis** & **RabbitMQ**
 - Object Storage with **Amazon S3** & **Azure Blob Storage**
+- Monitoring with **Sentry**
+- **NGINX**
   
 ## Data Science and Machine Learning Tools
 
