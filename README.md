@@ -2,9 +2,9 @@
 
 ## Core Technologies
 
-- **Golang:** GORM, Gin
 - **Python:** Django, Django Rest, Flask, Celery
-- **JavaScript:** Vue, jQuery
+- **Golang:** GORM, Gin
+- **JavaScript:** React, jQuery
 - **PHP:** Laravel
 - **HTML5** 
 - **CSS3:** Bootstrap, Tailwind CSS
