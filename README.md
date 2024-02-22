@@ -4,7 +4,7 @@
 
 - **Python:** Django, Django Rest, Flask, Celery
 - **Golang:** GORM, Gin
-- **JavaScript:** React, jQuery
+- **JavaScript:** React, jQuery, TypeScript, Adonijs
 - **PHP:** Laravel
 - **HTML5** 
 - **CSS3:** Bootstrap, Tailwind CSS
