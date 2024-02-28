@@ -1,5 +1,7 @@
 # Software Engineer
 
+A passionate software engineer who finds fulfillment in crafting elegant solutions to complex problems through code.
+
 ## Core Technologies
 
 - **Python:** Django, Django Rest, Flask, Celery
