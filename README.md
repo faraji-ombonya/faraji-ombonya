@@ -6,7 +6,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 - **Python:** Django, Django Rest, Flask, Celery
 - **Golang:** GORM, Gin
-- **JavaScript:** React, jQuery, TypeScript, Adonijs
+- **JavaScript:** React, jQuery, TypeScript, AdonisJS
 - **PHP:** Laravel
 - **HTML5** 
 - **CSS3:** Bootstrap, Tailwind CSS
