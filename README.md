@@ -1,6 +1,6 @@
 # Software Engineer
 
-A passionate software engineer who finds fulfillment in crafting elegant solutions to complex problems through code.
+A passionate software engineer who finds fulfillment in crafting elegant solutions to complex problems.
 
 ## Core Technologies
 
