@@ -42,5 +42,8 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faraji-ombonya&langs_count=10&show_icons=true&theme=transparent&layout=compact" />
 </a>
 
+## Learning Profiles
+[Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/93c04457-d694-4d77-8aa3-14dc6be880b2)
+
 ## Contact
 - **Email:** farajiombonya@gmail.com
