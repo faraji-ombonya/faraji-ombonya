@@ -31,6 +31,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Numpy
 - Matplotlib
 - Scikit-Learn
+- Jupyter
 
 ## GitHub Stats
 
