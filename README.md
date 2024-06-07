@@ -46,6 +46,9 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 ## Learning Profiles
 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/93c04457-d694-4d77-8aa3-14dc6be880b2) | [Hacker Rank](https://www.hackerrank.com/farajiombonya) | [Microsoft Build](https://learn.microsoft.com/en-us/users/farajishikandaombonya-6815/)
 
+## CV
+[Download CV](https://drive.google.com/file/d/1nzpzAUF0tXd7UtbVMz9uf6nzz3PGnGfi/view?usp=sharing)
+
 ## Contact
 
 **Email:** farajiombonya@gmail.com
