@@ -22,6 +22,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Load Testing with **Locust**
 - Message and Task Queues with **Redis** & **RabbitMQ**
 - Object Storage with **Amazon S3** & **Azure Blob Storage**
+- Document DB with **MongoDB**
 - Monitoring with **Sentry**
 - **NGINX**
   
