@@ -34,6 +34,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Matplotlib
 - Scikit-Learn
 - Jupyter
+- Word2Vec
 
 ## GitHub Stats
 
