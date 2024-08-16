@@ -2,30 +2,30 @@
 
 A passionate software engineer who finds fulfillment in crafting elegant solutions to complex problems.
 
-## Core Technologies
+## Languages and Frameworks
 
 - **Python:** Django, Django Rest, Flask, Fast API
 - **Golang:** GORM, Gin
-- **JavaScript:** React, jQuery, TypeScript, AdonisJS
+- **JavaScript:** React, jQuery, TypeScript, AdonisJS, NextJS
 - **PHP:** Laravel
 - **HTML5** 
 - **CSS3:** Bootstrap, Tailwind CSS
-- **SQL:** MySQL, PostgreSQL
-- **NoSQL:** DynamoDB, Redis, MongoDB
 
 ## Skills
 
+- Relational Database Management (SQL) with **MySQL** & **PostgreSQL**
+- NoSQL Database Management with **DynamoDB** & **MongoDB**
+- Document DB with **MongoDB**
+- Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**
+- Message and Task Queues with **Redis** & **RabbitMQ**
 - Source Code Control and Versioning with **Git** & **GitHub**
 - Project Management with **Notion**, **Jira** & **GitHub Projects**
 - API Testing and Documentation with **Postman**
 - Containerization with **Docker**
 - Load Testing with **Locust**
-- Message and Task Queues with **Redis** & **RabbitMQ**
 - Task scheduling with **Celery**
-- Object Storage with **Amazon S3** & **Azure Blob Storage**
-- Document DB with **MongoDB**
 - Monitoring with **Sentry**
-- **NGINX**
+- API Deployment with **NGINX**
 - Pandas
 - Numpy
 - Matplotlib
