@@ -16,7 +16,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 ## Skills
 
 - Source Code Control and Versioning with **Git** & **GitHub**
-- Project Management with **Jira** & **GitHub**
+- Project Management with **Notion**, **Jira** & **GitHub Projects**
 - API Testing with **Postman**
 - Containerization with **Docker**
 - Load Testing with **Locust**
