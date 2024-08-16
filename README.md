@@ -28,7 +28,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - API Deployment with **NGINX**
 - Data Analysis and Manipulation with **Pandas**
 - Numerical Computations and Data Manipulation with **Numpy**
-- Matplotlib
+- Data Visualization and Plotting with **Matplotlib**
 - Scikit-Learn
 - Jupyter
 - Generating word embeddings with **Word2Vec**
