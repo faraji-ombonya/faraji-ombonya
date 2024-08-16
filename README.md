@@ -17,7 +17,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 - Source Code Control and Versioning with **Git** & **GitHub**
 - Project Management with **Notion**, **Jira** & **GitHub Projects**
-- API Testing with **Postman**
+- API Testing and Documentation with **Postman**
 - Containerization with **Docker**
 - Load Testing with **Locust**
 - Message and Task Queues with **Redis** & **RabbitMQ**
