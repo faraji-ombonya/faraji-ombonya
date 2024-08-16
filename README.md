@@ -13,7 +13,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - **SQL:** MySQL, PostgreSQL
 - **NoSQL:** DynamoDB, Redis, MongoDB
 
-## Developer Tools
+## Skills
 
 - Source Code Control and Versioning with **Git** & **GitHub**
 - Project Management with **Jira** & **GitHub**
@@ -26,15 +26,12 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Document DB with **MongoDB**
 - Monitoring with **Sentry**
 - **NGINX**
-  
-## Data Science and Machine Learning Tools
-
 - Pandas
 - Numpy
 - Matplotlib
 - Scikit-Learn
 - Jupyter
-- Word2Vec
+- Generating word embeddings with **Word2Vec**
 
 ## GitHub Stats
 
