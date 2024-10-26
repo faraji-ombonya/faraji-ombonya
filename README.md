@@ -13,7 +13,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 ## Skills
 
-- Unit testing with **pytest**
+- Unit testing with **pytest**, **unittest**
 - Relational Database Management (SQL) with **MySQL** & **PostgreSQL**
 - NoSQL Database Management with **DynamoDB** & **MongoDB**
 - Document DB with **MongoDB**
