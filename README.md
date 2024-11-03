@@ -13,26 +13,33 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 ## Skills
 
-- Unit testing with **pytest**, **unittest**
-- Relational Database Management (SQL) with **MySQL** & **PostgreSQL**
-- NoSQL Database Management with **DynamoDB** & **MongoDB**
-- Document DB with **MongoDB**
-- Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**
-- Message and Task Queues with **Redis** & **RabbitMQ**
 - Source Code Control and Versioning with **Git** & **GitHub**
 - Project Management with **Notion**, **Jira** & **GitHub Projects**
 - API Testing and Documentation with **Postman**
 - Containerization with **Docker**
 - Load Testing with **Locust**
-- Task scheduling with **Celery**
 - Monitoring with **Sentry**
 - API Deployment with **NGINX**
+
+### Python
+- Unit testing with **pytest**, **unittest**
+- Task scheduling with **Celery**
+- ORM with **SQL Alchemy**
+
+### Machine Learning & Data Science
 - Data Analysis and Manipulation with **Pandas**
 - Numerical Computations and Data Manipulation with **Numpy**
 - Data Visualization and Plotting with **Matplotlib**
 - Scikit-Learn
 - Jupyter
 - Generating word embeddings with **Word2Vec**
+
+### Database Management & Object Storage
+- Relational Database Management (SQL) with **MySQL** & **PostgreSQL**
+- NoSQL Database Management with **DynamoDB** & **MongoDB**
+- Document DB with **MongoDB**
+- Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**
+- Message and Task Queues with **Redis** & **RabbitMQ**
 
 ## GitHub Stats
 
