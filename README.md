@@ -11,6 +11,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Unit testing with **pytest**, **unittest**
 - Task scheduling with **Celery**
 - ORM with **SQL Alchemy**
+- Web scraping with **Beatiful Soup**
 
 ### JavaScript
 - Static typing with **TypeScript**
