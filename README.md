@@ -2,29 +2,33 @@
 
 A passionate software engineer who finds fulfillment in crafting elegant solutions to complex problems.
 
-## Languages and Frameworks
-
-- **Python:** Django, Django Rest, Flask, Fast API
-- **Golang:** GORM, Gin
-- **JavaScript:** React, jQuery, TypeScript, AdonisJS, NextJS
-- **PHP:** Laravel
-- **HTML5** 
-- **CSS3:** Bootstrap, Tailwind CSS
-
 ## Skills
 
 ### Python
+- Back-end Web Development with **Django**, **Django Rest**, **Flask**, **Fast API**
+- Machine learning & Data Science with **pandas**, **numpy**, **Matplotlib**, **scikit-learn**, **jupyter**, **Gensim (Word2Vec)**
+- Static typing with **MyPy**
 - Unit testing with **pytest**, **unittest**
 - Task scheduling with **Celery**
 - ORM with **SQL Alchemy**
 
-### Machine Learning & Data Science
-- Data Analysis and Manipulation with **Pandas**
-- Numerical Computations and Data Manipulation with **Numpy**
-- Data Visualization and Plotting with **Matplotlib**
-- Scikit-Learn
-- Jupyter
-- Generating word embeddings with **Word2Vec**
+### JavaScript
+- Static typing with **TypeScript**
+- Front-end Web Development with **React**, **Next.js**, **jQuery**
+- Back-end Web Development with **AdonisJS**
+
+### HTML
+- Frontend Web Development with **HTML5**
+
+### CSS
+- Frontend Web Development with **CSS3**, **Tailwind CSS**, **Bootstrap**
+
+### Golang
+- Bak-end Web Development with **Gin**
+- ORM with **GORM**
+
+### PHP
+- Back-end Web Development with **Laravel**
 
 ### Database Management & Object Storage
 - Relational Database Management (SQL) with **MySQL** & **PostgreSQL**
