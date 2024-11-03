@@ -5,47 +5,47 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 ## Skills
 
 ### Python
-- Back-end Web Development with **Django**, **Django Rest**, **Flask**, **Fast API**
-- Machine learning & Data Science with **pandas**, **numpy**, **Matplotlib**, **scikit-learn**, **jupyter**, **Gensim (Word2Vec)**
-- Static typing with **MyPy**
-- Unit testing with **pytest**, **unittest**
-- Task scheduling with **Celery**
-- ORM with **SQL Alchemy**
-- Web scraping with **Beatiful Soup**
+- Back-end Web Development with **Django**, **Django Rest**, **Flask** & **Fast API**.
+- Machine learning & Data Science with **pandas**, **numpy**, **Matplotlib**, **scikit-learn**, **jupyter** & **Gensim (Word2Vec)**.
+- Static typing with **MyPy**.
+- Unit testing with **pytest** & **unittest**.
+- Task scheduling with **Celery**.
+- ORM with **SQL Alchemy**.
+- Web scraping with **Beatiful Soup**.
 
 ### JavaScript
-- Static typing with **TypeScript**
-- Front-end Web Development with **React**, **Next.js**, **jQuery**
-- Back-end Web Development with **AdonisJS**
+- Static typing with **TypeScript**.
+- Front-end Web Development with **React**, **Next.js** & **jQuery**.
+- Back-end Web Development with **AdonisJS**.
 
 ### HTML
-- Frontend Web Development with **HTML5**
+- Frontend Web Development with **HTML5**.
 
 ### CSS
-- Frontend Web Development with **CSS3**, **Tailwind CSS**, **Bootstrap**
+- Frontend Web Development with **CSS3**, **Tailwind CSS** & **Bootstrap**.
 
 ### Golang
-- Bak-end Web Development with **Gin**
-- ORM with **GORM**
+- Bak-end Web Development with **Gin**.
+- ORM with **GORM**.
 
 ### PHP
-- Back-end Web Development with **Laravel**
+- Back-end Web Development with **Laravel**.
 
 ### Database Management & Object Storage
-- Relational Database Management (SQL) with **MySQL** & **PostgreSQL**
-- NoSQL Database Management with **DynamoDB** & **MongoDB**
-- Document Database Management with **MongoDB**
-- Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**
-- Message and Task Queues with **Redis** & **RabbitMQ**
+- Relational Database Management (SQL) with **MySQL** & **PostgreSQL**.
+- NoSQL Database Management with **DynamoDB** & **MongoDB**.
+- Document Database Management with **MongoDB**.
+- Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**.
+- Message and Task Queues with **Redis** & **RabbitMQ**.
 
 ### Devops & CI/CD
-- Source Code Control and Versioning with **Git** & **GitHub**
-- Project Management with **Notion**, **Jira** & **GitHub Projects**
-- API Testing and Documentation with **Postman**
-- Containerization with **Docker**
-- Load Testing with **Locust**
-- Monitoring with **Sentry**
-- API Deployment with **NGINX**
+- Source Code Control and Versioning with **Git** & **GitHub**.
+- Project Management with **Notion**, **Jira** & **GitHub Projects**.
+- API Testing and Documentation with **Postman**.
+- Containerization with **Docker**.
+- Load Testing with **Locust**.
+- Monitoring with **Sentry**.
+- API Deployment with **NGINX**.
 
 ## GitHub Stats
 
