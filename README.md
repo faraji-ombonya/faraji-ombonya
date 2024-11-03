@@ -37,7 +37,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 ### Database Management & Object Storage
 - Relational Database Management (SQL) with **MySQL** & **PostgreSQL**
 - NoSQL Database Management with **DynamoDB** & **MongoDB**
-- Document DB with **MongoDB**
+- Document Database Management with **MongoDB**
 - Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**
 - Message and Task Queues with **Redis** & **RabbitMQ**
 
