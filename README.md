@@ -13,14 +13,6 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 ## Skills
 
-- Source Code Control and Versioning with **Git** & **GitHub**
-- Project Management with **Notion**, **Jira** & **GitHub Projects**
-- API Testing and Documentation with **Postman**
-- Containerization with **Docker**
-- Load Testing with **Locust**
-- Monitoring with **Sentry**
-- API Deployment with **NGINX**
-
 ### Python
 - Unit testing with **pytest**, **unittest**
 - Task scheduling with **Celery**
@@ -40,6 +32,15 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Document Database Management with **MongoDB**
 - Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**
 - Message and Task Queues with **Redis** & **RabbitMQ**
+
+### Devops & CI/CD
+- Source Code Control and Versioning with **Git** & **GitHub**
+- Project Management with **Notion**, **Jira** & **GitHub Projects**
+- API Testing and Documentation with **Postman**
+- Containerization with **Docker**
+- Load Testing with **Locust**
+- Monitoring with **Sentry**
+- API Deployment with **NGINX**
 
 ## GitHub Stats
 
