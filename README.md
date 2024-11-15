@@ -15,6 +15,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 ### JavaScript
 - Static typing with **TypeScript**.
+- Mobile Development with **React Native** & **Expo**
 - Front-end Web Development with **React**, **Next.js** & **jQuery**.
 - Back-end Web Development with **AdonisJS**.
 
