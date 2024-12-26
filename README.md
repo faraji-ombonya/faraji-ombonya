@@ -14,16 +14,15 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Web scraping with **Beatiful Soup**.
 
 ### JavaScript
-- Static typing with **TypeScript**.
-- Mobile Development with **React Native** & **Expo**
-- Front-end Web Development with **React** & **Next.js**.
-- Back-end Web Development with **AdonisJS**.
+- Mobile Development with **TypeScript**, **React Native** & **Expo**
+- Front-end Web Development with **TypeScript**, **React** & **Next.js**.
+- Back-end Web Development with **TypeScript** & **AdonisJS**.
 
 ### HTML
 - Frontend Web Development with **HTML5**.
 
 ### CSS
-- Frontend Web Development with **CSS3**, **Tailwind CSS** & **Bootstrap**.
+- Frontend Web Development with **CSS3** & **Tailwind CSS**
 
 ### Golang
 - Bak-end Web Development with **Gin**.
