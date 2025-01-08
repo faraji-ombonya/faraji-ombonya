@@ -14,7 +14,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Web scraping with **Beatiful Soup**.
 
 ### JavaScript
-- Mobile Development with **TypeScript**, **React Native** & **Expo**
+- Mobile Development with **TypeScript**, **React Native** & **Expo**.
 - Front-end Web Development with **TypeScript**, **React** & **Next.js**.
 - Back-end Web Development with **TypeScript** & **AdonisJS**.
 
@@ -22,7 +22,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - **GO**: Bak-end Web Development with **Gin**, Object Relational Mapping with **GORM**.
 - **PHP**: Back-end Web Development with **Laravel**.
 - **HTML**: Frontend Web Development with **HTML5**.
-- **CSS**: Frontend Web Development with **CSS3** & **Tailwind CSS**
+- **CSS**: Frontend Web Development with **CSS3** & **Tailwind CSS**.
 
 ### Database Management & Object Storage
 - Relational Database Management (SQL) with **MySQL** & **PostgreSQL**.
