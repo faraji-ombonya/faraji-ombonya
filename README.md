@@ -35,7 +35,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Source Code Control and Versioning with **Git** & **GitHub**.
 - Containerization and container orchestration with **Docker**.
 - Container Orchestration **Kubernetes** & **Minikube**.
-- Continous Integration with **Github Actions**.
+- Continuous Integration with **Github Actions**.
 - Project Management with **Notion**, **Jira** & **GitHub Projects**.
 - API Testing and Documentation with **Postman** & **drf-spectacular** (**swagger-ui**, **redoc**).
 - Load Testing with **Locust**.
