@@ -29,7 +29,8 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - NoSQL Database Management with **DynamoDB** & **MongoDB**.
 - Document Database Management with **MongoDB**.
 - Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**.
-- Message and Task Queues with **Redis** & **RabbitMQ**.
+- Using **Redis** as an in-memory data store.
+- Using **RabbitMQ** as a message broker.
 
 ### Devops & CI/CD
 - Source Code Control and Versioning with **Git** & **GitHub**.
