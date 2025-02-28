@@ -34,8 +34,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 ### Devops & CI/CD
 - Source Code Control and Versioning with **Git** & **GitHub**.
-- Containerization and container orchestration with **Docker**.
-- Container Orchestration **Kubernetes** & **Minikube**.
+- Containerization and container orchestration with **Docker**, **Kubernetes** & **Minikube**.
 - Continuous Integration with **Github Actions**.
 - Project Management with **Notion**, **Jira** & **GitHub Projects**.
 - API Testing and Documentation with **Postman** & **drf-spectacular** (**swagger-ui**, **redoc**).
