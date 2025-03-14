@@ -8,6 +8,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Back-end Web Development with **Django**, **Django Rest**, **Flask** & **Fast API**.
 - Machine learning & Data Science with **pandas**, **numpy**, **Matplotlib**, **scikit-learn**, **Hugging Face**, **jupyter** & **Gensim (Word2Vec)**.
 - Static typing with **MyPy**.
+- Data validation with **Pydantic**
 - Unit testing with **pytest**, **unittest** & **coverage.py**.
 - Task scheduling with **Celery**.
 - ORM with **SQL Alchemy**.
