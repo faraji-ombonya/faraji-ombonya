@@ -50,4 +50,4 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 **Contact**: farajiombonya@gmail.com
 
-**Websites**: [Portfolio](https://farajiombonya.com/) | [BLog](https://farajiombonya.com/blog/)
+**Websites**: [Portfolio](https://www.farajiombonya.com) | [BLog](https://www.farajiombonya.com/articles)
