@@ -5,7 +5,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 ## Skills
 
 ### Python
-- Back-end Web Development with **Django**, **Django Rest**, **Flask** & **Fast API**.
+- Backend Web Development with **Django**, **Django Rest**, **Flask** & **Fast API**.
 - Machine learning & Data Science with **pandas**, **numpy**, **Matplotlib**, **scikit-learn**, **Hugging Face**, **jupyter** & **Gensim (Word2Vec)**.
 - Static typing with **MyPy**.
 - Data validation with **Pydantic**
@@ -16,12 +16,12 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 
 ### JavaScript
 - Mobile Development with **TypeScript**, **React Native** & **Expo**.
-- Front-end Web Development with **TypeScript**, **React** & **Next.js**.
-- Back-end Web Development with **TypeScript** & **AdonisJS**.
+- Frontend Web Development with **TypeScript**, **React** & **Next.js**.
+- Backend Web Development with **TypeScript** & **AdonisJS**.
 
 ### Other Languages & Frameworks
-- **GO**: Bak-end Web Development with **Gin**, Object Relational Mapping with **GORM**.
-- **PHP**: Back-end Web Development with **Laravel**.
+- **GO**: Backend Web Development with **Gin**, Object Relational Mapping with **GORM**.
+- **PHP**: Backend Web Development with **Laravel**.
 - **HTML**: Frontend Web Development with **HTML5**.
 - **CSS**: Frontend Web Development with **CSS3** & **Tailwind CSS**.
 
