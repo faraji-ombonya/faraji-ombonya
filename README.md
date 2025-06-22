@@ -18,6 +18,7 @@ A passionate software engineer who finds fulfillment in crafting elegant solutio
 - Mobile Development with **TypeScript**, **React Native** & **Expo**.
 - Frontend Web Development with **TypeScript**, **React** & **Next.js**.
 - Backend Web Development with **TypeScript** & **AdonisJS**.
+- Asynchronous state management with **TanStack Query**
 
 ### Other Languages & Frameworks
 - **GO**: Backend Web Development with **Gin**, Object Relational Mapping with **GORM**.
