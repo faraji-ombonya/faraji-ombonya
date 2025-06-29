@@ -1,6 +1,6 @@
 # Software Engineer
 
-A passionate software engineer who finds fulfillment in crafting elegant solutions to complex problems.
+A seasoned Backend Engineer with 4+ years of experience crafting resilient systems that scale.
 
 ## Skills
 
