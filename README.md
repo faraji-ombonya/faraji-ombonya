@@ -6,6 +6,7 @@ A seasoned Backend Engineer with 4+ years of experience crafting resilient syste
 
 ### Python
 - Backend Web Development with **Django**, **Django Rest**, **Flask** & **Fast API**.
+    - Authentication with **Simple JWT**
 - Machine learning & Data Science with **pandas**, **numpy**, **Matplotlib**, **scikit-learn**, **Hugging Face**, **jupyter** & **Gensim (Word2Vec)**.
 - Static typing with **MyPy**.
 - Data validation with **Pydantic**
