@@ -49,7 +49,7 @@ A seasoned Backend Engineer with 4+ years of experience crafting resilient syste
 ### Freelance
 - [Genius254](https://genius254.com/)
 - [Roam and Rove Expeditions](https://www.roamandrovexpeditions.com/)
-- Rent my Place Kenya
+- [Rent my Place Kenya](https://www.rent254.com/)
 
 ### Personal
 - Webscrapper
