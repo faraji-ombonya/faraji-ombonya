@@ -50,6 +50,7 @@ A seasoned Backend Engineer with 4+ years of experience crafting resilient syste
 - [Genius254](https://genius254.com/)
 - [Roam and Rove Expeditions](https://www.roamandrovexpeditions.com/)
 - [Rent my Place Kenya](https://www.rent254.com/)
+- [Move with a Van](https://www.movewithavan.ie/)
 
 ### Personal
 - Webscrapper
