@@ -17,11 +17,14 @@ A seasoned Backend Engineer with 5 years of experience crafting resilient system
 - ORM with **SQL Alchemy**.
 - Web scraping with **Beatiful Soup**.
 
-### JavaScript
-- Mobile Development with **TypeScript**, **React Native** & **Expo**.
-- Frontend Web Development with **TypeScript**, **React** & **Next.js**.
-- Backend Web Development with **TypeScript** & **AdonisJS**.
+### TypeScript & JavaScript
+- Mobile Development with **React Native** & **Expo**.
+- Frontend Web Development with **React** & **Next.js**.
+- Backend Web Development with **AdonisJS**.
 - Asynchronous state management with **TanStack Query**
+- Form validation with **Zod**
+- Form handling with **React Hook Form**
+- Routing with **React Router**
 
 ### Other Languages & Frameworks
 - **GO**: Backend Web Development with **Gin**, Object Relational Mapping with **GORM**.
