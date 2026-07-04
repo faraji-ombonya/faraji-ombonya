@@ -20,7 +20,6 @@ A seasoned Backend Engineer with 5 years of experience crafting resilient system
 ### TypeScript & JavaScript
 - Mobile Development with **React Native** & **Expo**.
 - Frontend Web Development with **React** & **Next.js**.
-- Backend Web Development with **AdonisJS**.
 - Asynchronous state management with **TanStack Query**
 - Form validation with **Zod**
 - Form handling with **React Hook Form**
