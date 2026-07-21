@@ -17,6 +17,10 @@ A seasoned Backend Engineer with 5 years of experience crafting resilient system
 - ORM with **SQL Alchemy**.
 - Web scraping with **Beatiful Soup**.
 
+### PHP
+- Backend development with **Laravel**
+    - Authentication with **Sactum**
+
 ### TypeScript & JavaScript
 - Mobile Development with **React Native** & **Expo**.
 - Frontend Web Development with **React** & **Next.js**.
@@ -27,7 +31,6 @@ A seasoned Backend Engineer with 5 years of experience crafting resilient system
 
 ### Other Languages & Frameworks
 - **GO**: Backend Web Development with **Gin**, Object Relational Mapping with **GORM**.
-- **PHP**: Backend Web Development with **Laravel**.
 - **HTML**: Frontend Web Development with **HTML5**.
 - **CSS**: Frontend Web Development with **CSS3** & **Tailwind CSS**.
 
