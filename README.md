@@ -19,7 +19,7 @@ A seasoned Backend Engineer with 5 years of experience crafting resilient system
 
 ### PHP
 - Backend development with **Laravel**
-    - Authentication with **Sactum**
+    - Authentication with **Sanctum**
 
 ### TypeScript & JavaScript
 - Mobile Development with **React Native** & **Expo**.
