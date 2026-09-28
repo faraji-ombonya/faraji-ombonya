@@ -41,6 +41,7 @@ A seasoned Backend Engineer with 5 years of experience crafting resilient system
 - Object Storage (BLOB) with **Amazon S3** & **Azure Blob Storage**.
 - Using **Redis** as an in-memory data store.
 - Using **RabbitMQ** as a message broker.
+- Database replication with **Percona Xtradb Cluster**.
 
 ### Devops & CI/CD
 - Source Code Control and Versioning with **Git** & **GitHub**.
