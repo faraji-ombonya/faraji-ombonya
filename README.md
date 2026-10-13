@@ -39,8 +39,7 @@ A seasoned Backend Engineer with 5 years of experience crafting resilient system
 - NoSQL Database Management with **DynamoDB** & **MongoDB**.
 - Document Database Management with **MongoDB**.
 - Object Storage (BLOB) with **Amazon S3**, **MinIO** & **Azure Blob Storage**.
-- Using **Redis** as an in-memory data store.
-- Using **RabbitMQ** as a message broker.
+- Using **Redis** and **RabbitMQ** as an in-memory data store or as a message broker.
 - Database replication with **Percona Xtradb Cluster**.
 
 ### Devops & CI/CD
