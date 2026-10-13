@@ -1,55 +1,36 @@
 # Software Engineer
 
-A seasoned Backend Engineer with 5 years of experience crafting resilient systems that scale.
+A seasoned Backend Engineer with 5 years of experience building resilient systems that scale.
 
 ## Skills
 
-### Python
-- Backend Web Development with **Django**, **Django Rest**, **Flask** & **Fast API**.
-    - Authentication with **Simple JWT**
-    - Authorization with **Django REST - Access Policy**
-    - Search with **Elasticsearch**
-- Machine learning & Data Science with **pandas**, **numpy**, **Matplotlib**, **scikit-learn**, **Hugging Face**, **jupyter** & **Gensim (Word2Vec)**.
-- Static typing with **MyPy**.
-- Data validation with **Pydantic**
-- Unit testing with **pytest**, **unittest** & **coverage.py**.
-- Task scheduling with **Celery**.
-- ORM with **SQL Alchemy**.
-- Web scraping with **Beatiful Soup**.
+### API Development
+- With **Python** (**Django**, **FastAPI**, **Flask**)
+- With **PHP** (**Laravel**)
+- With **Go** (**Gin**, **Gorm**)
 
-### PHP
-- Backend development with **Laravel**
-    - Authentication with **Sanctum**
-
-### TypeScript & JavaScript
-- Mobile Development with **React Native** & **Expo**.
-- Frontend Web Development with **React** & **Next.js**.
-- Asynchronous state management with **TanStack Query**
-- Form validation with **Zod**
-- Form handling with **React Hook Form**
-- Routing with **React Router**
-
-### Other Languages & Frameworks
-- **GO**: Backend Web Development with **Gin**, Object Relational Mapping with **GORM**.
-- **HTML**: Frontend Web Development with **HTML5**.
-- **CSS**: Frontend Web Development with **CSS3** & **Tailwind CSS**.
-
-### Database Management & Object Storage
+### Database Management, Object Storage & Search 
 - Relational Database Management (SQL) with **MySQL** & **PostgreSQL**.
-- NoSQL Database Management with **DynamoDB** & **MongoDB**.
-- Document Database Management with **MongoDB**.
-- Object Storage (BLOB) with **Amazon S3**, **MinIO** & **Azure Blob Storage**.
-- Using **Redis** and **RabbitMQ** as an in-memory data store or as a message broker.
+- Object Storage (BLOB) with **Amazon S3** & **MinIO**.
+- Search with **Elastic Search**.
+- Using **Redis** and **RabbitMQ** for caching, as an in-memory data store or as a message broker.
 - Database replication with **Percona Xtradb Cluster**.
 
 ### Devops & CI/CD
 - Source Code Control and Versioning with **Git** & **GitHub**.
-- Containerization and container orchestration with **Docker**, **Compose**, **Kubernetes** & **Minikube**.
 - Continuous Integration with **Github Actions**.
+- Containerization and container orchestration with **Docker**, **Compose**, **Kubernetes** & **Minikube**.
 - API Testing and Documentation with **Postman** & **drf-spectacular** (**swagger-ui**, **redoc**).
-- Load Testing with **Locust**.
 - Monitoring with **Sentry**.
-- API Deployment with **NGINX**.
+- Using **NGINX** and **Caddy** as a reverse proxy.
+
+### Frontend Development
+- With Javascript & Typescript (**React**, **Next.js**)
+- CSS (**Tailwind CSS**)
+- HTML
+
+### Mobile Development
+- With **React Native** & **Expo**.
 
 ## Projects
 ### Freelance
