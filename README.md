@@ -9,6 +9,10 @@ A seasoned Backend Engineer with 5 years of experience building resilient system
 - With **PHP** (**Laravel**)
 - With **Go** (**Gin**, **Gorm**)
 
+### AI
+- Building AI agents with langchain.
+- AI assisted development
+
 ### Database Management, Object Storage & Search 
 - Relational Database Management (SQL) with **MySQL** & **PostgreSQL**.
 - Object Storage (BLOB) with **Amazon S3** & **MinIO**.
