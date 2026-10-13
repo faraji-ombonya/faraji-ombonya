@@ -11,7 +11,6 @@ A seasoned Backend Engineer with 5 years of experience building resilient system
 
 ### AI
 - Building AI agents with langchain.
-- AI assisted development
 
 ### Database Management, Object Storage & Search 
 - Relational Database Management (SQL) with **MySQL** & **PostgreSQL**.
